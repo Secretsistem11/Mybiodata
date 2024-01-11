@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mybiodata/static/css/main.864d609b.css",
+    "main.js": "/Mybiodata/static/js/main.9fab4b6d.js",
+    "static/js/787.89df3a5f.chunk.js": "/Mybiodata/static/js/787.89df3a5f.chunk.js",
+    "static/media/bg.jpg": "/Mybiodata/static/media/bg.3e57cf1cc0f44a3a66a1.jpg",
+    "index.html": "/Mybiodata/index.html",
+    "main.864d609b.css.map": "/Mybiodata/static/css/main.864d609b.css.map",
+    "main.9fab4b6d.js.map": "/Mybiodata/static/js/main.9fab4b6d.js.map",
+    "787.89df3a5f.chunk.js.map": "/Mybiodata/static/js/787.89df3a5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864d609b.css",
+    "static/js/main.9fab4b6d.js"
+  ]
+}
